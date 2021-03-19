@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 
-#We will select the columns and use the where clause to filter odd ids and description is not boring
+#We will select the columns and use the where clause to filter odd ids and description which is not boring
 #Then we will order the rating column in descending order
 
 Select id,movie , description, rating
